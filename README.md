@@ -44,6 +44,9 @@ Hacking is a crucial skill in today's digital world. Whether you want to become 
    - : [How to Install Kali Linux virtual machine on Ubuntu](https://www.youtube.com/watch?v=mlQXRxCz180)
    - : [How to Install Kali Linux on your Android phone](https://www.youtube.com/watch?v=xeGQVQyUIoM)
 
+### Day 1: 
+ (Intro to cybersecurity, Basic command line and Linux Essentials)[day 1.md]
+
 
 ## FAQ
 
