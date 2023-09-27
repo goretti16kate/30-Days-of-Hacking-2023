@@ -44,3 +44,21 @@ Hacking is a crucial skill in today's digital world. Whether you want to become 
    - : [How to Install Kali Linux virtual machine on Ubuntu](https://www.youtube.com/watch?v=mlQXRxCz180)
    - : [How to Install Kali Linux on your Android phone](https://www.youtube.com/watch?v=xeGQVQyUIoM)
 
+
+## FAQ
+
+   1. Is this challenge suitable for beginners?
+        Yes, this challenge is designed to accommodate hackers of all skill levels. We will start with the basics and gradually move to more advanced topics.
+
+   2. Can I participate even if I have limited time?
+        Absolutely! You can complete the challenges at your own pace. Even if you can only dedicate a few hours a week, you can still learn and make progress.
+
+   3. Is there a prize for completing the challenge?
+        This challenge is primarily for learning and skill development. There are no prizes, but the knowledge and experience you gain are invaluable. We'll of course have certificates for those who manage to complete 80% of the challenge
+
+   4. I found a security vulnerability during the challenge. What should I do?
+        If you discover a security vulnerability, always follow responsible disclosure practices. Notify the affected party and do not disclose the vulnerability publicly until it has been addressed.
+
+## Acknowledgments
+
+We would like to thank all the contributors and the open-source community for their support in creating and maintaining this challenge. Your contributions and feedback are highly appreciated.
